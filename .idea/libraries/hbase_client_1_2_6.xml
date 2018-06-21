@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="hbase-client-1.2.6">
+    <CLASSES>
+      <root url="jar://E:/Jar/hbase-client-1.2.6.jar!/" />
+      <root url="jar://E:/Jar/hbase-common-1.2.6.jar!/" />
+      <root url="jar://E:/Jar/hive/lib/hive-cli-2.2.0.jar!/" />
+      <root url="jar://E:/Jar/hive/lib/hive-exec-2.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

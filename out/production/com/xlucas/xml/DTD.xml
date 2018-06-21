@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE web-app SYSTEM "web-app_2_3.dtd">
+<web-app version="1.2">
+    <servlet>
+        <servlet-name>/hadoop</servlet-name>
+        <servlet-class>xlucas.xml.hadoop</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>/spark</servlet-name>
+        <url-pattern>xlucas.xml.spark</url-pattern>
+    </servlet-mapping>
+
+</web-app>

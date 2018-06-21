@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<book>
+    <name>hadoop>&lt;</name>
+    <name>
+        <![CDATA[
+        ><"'你好
+        ]]>
+    </name>
+</book>
